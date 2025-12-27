@@ -3,7 +3,7 @@
 
 - Select the module you wanna jailbreak
 - Press three dots on top of conversation (•••)
-- Then press customisation and click rule
+- Then press customization and create a global rule
 - And it gonna redirect you to GEMINI.md
 - Paste this inside GEMINI.md:
 ```
