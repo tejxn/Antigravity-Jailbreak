@@ -1,6 +1,7 @@
-# Jailbreak Google Antigravity Module
+# Jailbreak
+## Google Antigravity Modules
 
-- Select the module you wanna jailbreak.
+- Select the module you wanna jailbreak
 - Press three dots on top of conversation (•••)
 - Then press customisation and click rule
 - And it gonna redirect you to GEMINI.md
